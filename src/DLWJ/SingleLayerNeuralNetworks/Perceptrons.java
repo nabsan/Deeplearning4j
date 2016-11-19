@@ -17,7 +17,13 @@ public class Perceptrons {
         w = new double[nIn];
 
     }
-
+    /**
+     * train
+     * @param x
+     * @param t
+     * @param learningRate
+     * @return
+     */
     public int train(double[] x, int t, double learningRate) {
 
         int classified = 0;
