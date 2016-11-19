@@ -18,7 +18,7 @@ public class Perceptrons {
 
     }
     /**
-     * train
+     * train1
      * @param x
      * @param t
      * @param learningRate
